@@ -1,0 +1,27 @@
+.titulo-rojo {
+    color: rgb(195, 24, 24);
+}
+
+.logo{
+    width: 100px;
+    height: auto;
+}
+
+nav li {
+    margin-bottom: 10px; /* Agregar espacio entre ítems */
+    font-size: 18px;
+    line-height: 23px;
+    letter-spacing: -0.18px;
+    color: rgb(119, 113, 113);
+    font-family: AdelleSansClarin-VF;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.textoEstudiantes{
+    display: inline-block; /* Hacer que el párrafo ocupe solo el espacio que necesita */
+    text-align: justify; /* Justificar el texto */
+    width: 50%;
+}
